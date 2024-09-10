@@ -1,7 +1,7 @@
 # 💫 About Me:
 I enjoy cybersecurity, particularly offensive security, I also build multi-platform apps using Flutter. <br>
 If I'm not securing computers/networks or building Flutter Applications then I'm building APIs and backend servers using Django or Flask.<br>
-I'm currently building and growing @Revridge Enterprise<br>I'm looking to collaborate on fintech research and AI implementetion in the fintech sector,<br>I'm currently learning Backend Development with Django and Flask<br>Ask me about the fintech sector and product development in the fintech sector,<br>I speak fluently in three languages i.e English, Spanish and Russian<br>
+I'm currently building and growing @Revridge Enterprise<br>I'm looking to collaborate on fintech research and AI implementetion in the fintech sector,<br>I'm currently learning Backend Development with Django and Flask<br>Ask me about the fintech sector and product development in the fintech sector,<br>Fun Fact: I speak fluently in three languages i.e English, Spanish and Russian<br>
 
 
 ## 🌐 Socials:
